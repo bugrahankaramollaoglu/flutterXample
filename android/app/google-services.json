@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "163505061259",
+    "project_id": "fir-e071b",
+    "storage_bucket": "fir-e071b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163505061259:android:508adc44dbb2d3cb16838e",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsPl0FtNFXrhJ3FHnGNdIfyV8cRTYHuLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163505061259:android:6417eaa7cb25911116838e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_exercise_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsPl0FtNFXrhJ3FHnGNdIfyV8cRTYHuLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163505061259:android:eb1c7785c949529b16838e",
+        "android_client_info": {
+          "package_name": "com.example.kotlin_exercise_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsPl0FtNFXrhJ3FHnGNdIfyV8cRTYHuLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
