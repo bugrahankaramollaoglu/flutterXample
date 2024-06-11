@@ -1,0 +1,1 @@
+ /run/media/bugra/depo/flutterXample/.dart_tool/flutter_build/900361018a6d0b9c50e9f8fa69831a87/native_assets.yaml: 

@@ -4,7 +4,7 @@
             "outputFile": "com.example.flutter_exercise_app-mergeDebugResources-14:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/run/media/bugra/depo/exercises/flutter_exercise_app/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/run/media/bugra/depo/flutterXample/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
